@@ -1,27 +1,27 @@
-name: "Website Title"
+name: "My website."
 output_dir: "." ## if making website hostable on github with jekyll
 navbar:
-  title: "NavBar Title"
+  title: "Welcome to my website!"
   right:
     - text: "Home"
       href: index.html
     - text: 'About'
       href: about.html
-    - text: 'Whatever Menu' ## setting up a drop down menu
-      menu:
-        - text: 'Whatever Menu 1'
-          href: whatevermenu1.html
-        - text: 'Whatever Menu 2'
-          href: whatevermenu2.html
-        - text: 'Whatever Menu 3'
-          href: whatevermenu3.html
-    - text: 'Unicorns'
-      href: unicorns.html
-    - text: 'Downloads'
-      href: downloads.html
+    # - text: 'Whatever Menu' ## setting up a drop down menu
+    #   menu:
+        # - text: 'Whatever Menu 1'
+        #   href: whatevermenu1.html
+        # - text: 'Whatever Menu 2'
+        #   href: whatevermenu2.html
+        # - text: 'Whatever Menu 3'
+        #   href: whatevermenu3.html
+    # - text: 'Unicorns'
+    #   href: unicorns.html
+    # - text: 'Downloads'
+    #   href: downloads.html
 
 output:
   html_document:
-    theme: sandstone ## Preference
+    theme: united ## Preference
     highlight: textmate ## Preference
     include:
