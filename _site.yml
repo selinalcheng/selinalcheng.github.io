@@ -25,4 +25,3 @@ output:
     theme: sandstone ## Preference
     highlight: textmate ## Preference
     include:
-    css: styles.css ## custom CSS
