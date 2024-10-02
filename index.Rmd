@@ -1,5 +1,6 @@
 ---
 title: "My cats have a website!"
+output: html
 ---
 
 This is John.
