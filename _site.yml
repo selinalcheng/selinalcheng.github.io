@@ -5,8 +5,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: 'About'
-      href: about.html
+    - text: 'Publications'
+      href: pubs.html
     # - text: 'Whatever Menu' ## setting up a drop down menu
     #   menu:
         # - text: 'Whatever Menu 1'
